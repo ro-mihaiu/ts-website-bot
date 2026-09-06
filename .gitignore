@@ -1,2 +1,5 @@
 .env*
 *.jsonl
+__pycache__/*
+examples/*
+.venv/*
